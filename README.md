@@ -1,1 +1,1 @@
-# Movie-Recommendation-Application
+# Movie Recommendation System Application
